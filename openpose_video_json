@@ -26,9 +26,10 @@ except ImportError as e:
     raise e
 
 # Flags
-parser = argparse.ArgumentParser()
-parser.add_argument("--image_dir", default="C:\\Users\\han006\\Documents\\GitHub\\openpose\\examples\\video\\video.avi", help="Process an image. Read all standard formats (jpg, png, bmp, etc.).")
-args = parser.parse_known_args()
+#I didn't use this part
+#parser = argparse.ArgumentParser()
+#parser.add_argument("--image_dir", default="C:\\Users\\han006\\Documents\\GitHub\\openpose\\examples\\video\\video.avi", help="Process an image. Read all standard formats (jpg, png, bmp, etc.).")
+#args = parser.parse_known_args()
 
 # Custom Params (refer to include/openpose/flags.hpp for more parameters)
 params = dict()
