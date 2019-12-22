@@ -1,5 +1,5 @@
 # openpose-video-keypoints-in-json-file
-Hi, after going through the openpose project, I found out the code from CMU provided was not matched with my purpose.
+Hi, after going through the openpose project, I found out the code from CMU provided was not match with my purpose.
 I have video dataset which need to generate keypoints for our project. But I didn't find there is a solution from openpose Github.
 So I wrote by myself. I hope it will be helpful for you to use openpose.
 
